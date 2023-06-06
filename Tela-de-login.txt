@@ -1,0 +1,7 @@
+Falando sobre quais são as caracteristicas tem uma tela de login: 
+- Campos de entrada
+- Botão de login
+- Opção de lembrar senha
+- Recuperação de senha 
+- Links de registros 
+- Recurso de segurança
